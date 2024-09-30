@@ -30,7 +30,7 @@ We have snake and food on the board randomly placed.
 After analysing the algorithm now we have to build the idea to proceed for coding this algorithm.<br><br>
 Our Project will be divided into three Modules named <b>Agent, Game and Model</b>
   <p align='center'>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/agentstate.PNG" width=400px height=290px>
+    <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/1149f6042f560a5458db3d8e909c5d325de7b263/images/Agentstate.PNG>
   </p>
   <p>
     <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/game.png" width=390px height=250px align='left'>
