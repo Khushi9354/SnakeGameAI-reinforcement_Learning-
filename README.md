@@ -14,8 +14,7 @@ Deep Reinforcement Learning (DRL) combines the above ideas of RL with deep neura
 
 I will explain the implementation of this SnakeAI step by step.<br>
 A simple snake board game which is user controlled is designed using pygame module is here 
-snake_game.py
-
+https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/abc9529837e73fd489764e889cc932f8104012db/snake_game.py
 ### Algorithm
 We have snake and food on the board randomly placed.
 * calculate the state of the snake using the 11 values 
