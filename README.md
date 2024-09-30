@@ -18,7 +18,7 @@ https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/abc952983
 ### Algorithm
 We have snake and food on the board randomly placed.
 * calculate the state of the snake using the 11 values 
-  <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/State.svg">
+  <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/be65aa67bc3b5e85e6941002f526176a5e8c7ac4/images/state.svg">
 * Now this current state is passed to the RL Model for the next state.
   <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Model.svg">
 * After executing the next state calculate the reward. Rewards are defined as below:
