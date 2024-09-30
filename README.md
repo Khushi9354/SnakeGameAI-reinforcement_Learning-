@@ -33,7 +33,7 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
     <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/b0ea04cbe3cd3353ebbc83aa2ab9dfac4c6246a5/images/Agentstate.PNG">
   </p>
   <p>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/game.png" width=390px height=250px align='left'>
+    <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/b0ea04cbe3cd3353ebbc83aa2ab9dfac4c6246a5/images/Game.png">
     <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=390px height=250px align='right'>
   </p>
 
