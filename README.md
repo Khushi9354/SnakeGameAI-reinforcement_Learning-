@@ -18,9 +18,9 @@ A simple snake board game which is user controlled is designed using pygame modu
 ### Algorithm
 We have snake and food on the board randomly placed.
 * calculate the state of the snake using the 11 values 
-  <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/State.svg">
+  <img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/State.svg">
 * Now this current state is passed to the RL Model for the next state.
-  <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Model.svg">
+  <img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/Model.svg">
 * After executing the next state calculate the reward. Rewards are defined as below:
   1. Eat food  :  +10
   2. Game Over :  -10
@@ -30,19 +30,19 @@ We have snake and food on the board randomly placed.
 After analysing the algorithm now we have to build the idea to proceed for coding this algorithm.<br><br>
 Our Project will be divided into three Modules named <b>Agent, Game and Model</b>
   <p align='center'>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/agentstate.PNG" width=400px height=290px>
+    <img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/agentstate.PNG" width=400px height=290px>
   </p>
   <p>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/game.png" width=390px height=250px align='left'>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=390px height=250px align='right'>
+    <img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/game.png" width=390px height=250px align='left'>
+    <img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/model.png" width=390px height=250px align='right'>
   </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <hr />
 <p>
   <h2>Result</h2>
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/new.gif" width=380px height=250px align='left'>
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
+<img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/new.gif" width=380px height=250px align='left'>
+<img src="https://github.com/Khushi9354/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
 <br><br><br><br><br><br><br><br><br><br><br>
 <p style="font-size:25px">
 <pre>              <b> Initial Epochs</b>                                           <b>After 100<sup>th</sup> Epochs</b></pre>
