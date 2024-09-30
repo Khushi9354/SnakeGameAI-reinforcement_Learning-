@@ -20,7 +20,7 @@ We have snake and food on the board randomly placed.
 * calculate the state of the snake using the 11 values 
   <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/be65aa67bc3b5e85e6941002f526176a5e8c7ac4/images/state.svg">
 * Now this current state is passed to the RL Model for the next state.
-  <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/4f0ec577775c2fac3d2a6b067f5d41a4562fc2e4/images/model.svg">
+  <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/76a1fef0e6f11d086efce2042160ef556d23d4e2/images/model.svg">
 * After executing the next state calculate the reward. Rewards are defined as below:
   1. Eat food  :  +10
   2. Game Over :  -10
