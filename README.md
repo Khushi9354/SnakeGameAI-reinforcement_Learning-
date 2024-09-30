@@ -42,7 +42,7 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
 <p>
   <h2>Result</h2>
 <img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/4cc732d7844b3c87f5d946bc3194ae92d961d4a0/images/New.gif">
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
+<img src="https://github.com/Khushi9354/SnakeGameAI-reinforcement_Learning-/blob/476f5aef9e3ba4b9ec88e6b9ddbe78b0dfb63214/images/animation.gif">
 <br><br><br><br><br><br><br><br><br><br><br>
 <p style="font-size:25px">
 <pre>              <b> Initial Epochs</b>                                           <b>After 100<sup>th</sup> Epochs</b></pre>
